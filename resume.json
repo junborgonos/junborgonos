@@ -1,0 +1,249 @@
+{
+    basics: {
+        name: "Rodolfo Borgonos",
+        label: "Web Application Developer",
+        picture: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAmKAAAAJDIyOTA4NWJmLTU0YzEtNDdjOS05NWM3LWVjZjkxMzIwOTRhZg.jpg",
+        email: "rodolfo.borgonos@flightdigitalmedia.com",
+        phone: "+639778508841"
+    },
+    education: [
+        {
+            institution: "College for Research & Technology",
+            course: "Information Technology",
+            studyType: "Bachelor",
+            startDate: "2006",
+            endDate: "2010"
+        }
+    ],
+    skills: [
+        {
+            category: "Programming Languages",
+            technologies: [
+                {
+                    name: "PHP",
+                    number_of_years: 4
+                },
+                {
+                    name: "NodeJs",
+                    number_of_years: 1
+                },
+                {
+                    name: "Javascript",
+                    number_of_years: 5
+                },
+                {
+                    name: "JAVA",
+                    number_of_years: 3
+                },
+                {
+                    name: "C#",
+                    number_of_years: 3
+                },
+                {
+                    name: "Delphi",
+                    number_of_years: 2
+                },
+                {
+                    name: "Visual Basic 6",
+                    number_of_years: 3
+                }
+            ]
+        },
+        {
+            category: "Web Technologies",
+            technologies: [
+                {
+                    name: "HTML",
+                    number_of_years: 5
+                },
+                {
+                    name: "JQuery",
+                    number_of_years: 4
+                },
+                {
+                    name: "CSS",
+                    number_of_years: 3
+                },
+                {
+                    name: "Bootsrap",
+                    number_of_years: 2,
+                },
+                {
+                    name: "BackboneJS",
+                    number_of_years: 1
+                },
+                {
+                    name: "AngularJS 1",
+                    number_of_years: 1
+                }
+            ]
+        },
+        {
+            category: "Development Frameworks",
+            technologies: [
+               {
+                   name: "Laravel",
+                   number_of_years: 1
+               },
+               {
+                   name: "CodeIgniter",
+                   number_of_years: 2
+               },
+               {
+                   name: "Spring",
+                   number_of_years: 3
+               }
+            ]
+        },
+        {
+           category: "Databases",
+           technologies: [
+               {
+                   name: "MySQL",
+                   number_of_years: 5
+               },
+               {
+                   name: "MS SQL",
+                   number_of_years: 3
+               },
+               {
+                   name: "Oracle",
+                   number_of_years: 1
+               },
+               {
+                   name: "MongoDB",
+                   number_of_years: 1
+               }
+           ]
+        },
+        {
+           category: "Content Management System",
+           technologies: [
+               {
+                   name: "Wordpress",
+                   number_of_years: 3
+               },
+               {
+                   name: "Joomla",
+                   number_of_years: 1
+               },
+               {
+                   name: "Moodle",
+                   number_of_years: 1
+               }
+           ]
+        },
+        {
+           category: "Version Control",
+           technologies: [
+               {
+                   name: "Git",
+                   number_of_years: 3
+               },
+               {
+                   name: "SVN",
+                   number_of_years: 2
+               }
+           ]
+        },
+        {
+           category: "Operating System",
+           technologies: [ 
+               {
+                   name: "Linux",
+                   number_of_years: 3
+               },
+               {
+                   name: "Windows",
+                   number_of_years: 4
+               }
+           ]
+        },
+        {
+           category: "Web Services",
+           technologies: [
+               {
+                   name: "Amazon Web Services",
+                   number_of_years: 1
+               }
+           ]
+        },
+        {
+           category: "Integrated Development Environment",
+           technologies: [
+               {
+                   name: "Microsoft visual Studio",
+                   number_of_years: 3
+               },
+               {
+                   name: "Sublime Text",
+                   number_of_years: 3
+               },
+               {
+                   name: "Eclipse",
+                   number_of_years: 3
+               },
+               {
+                   name: "Zend Studio",
+                   number_of_years: 2
+               }
+           ]
+        }
+    ],
+    work: [
+       {
+           company: "Flight Degital Media",
+           position: "Backend Developer",
+           startDate: "March 2017",
+           endDate: "Present",
+           summary: "Build RESTful web services to support mobile applications for Android and IOS. Help in improving development standards for web applications. Develop mobile first web applications with the use of latest design frameworks.",
+           hightlights: [ ],
+           projects: [
+              {
+                name: "Powercore Back-office(ServerCore)",
+                description: "Create restful web services for powercore mobile applications.",
+                role: "Backend Developer",
+                startDate: "2017",
+                endDate: "Persent",
+                technologies: "PHP, MySQL"
+              }
+           ]
+       },
+       {
+           company: "Katana Techworks Inc",
+           position: "Software Developer",
+           startDate: "February 2014",
+           endDate: "March 2017",
+           summary: "Code, develop and deploy applications based on client requirements.",
+           hightlights: [ ],
+           projects: [
+              {
+                name: "WebMetro - ACQ Phone Number Allocator",
+                description: "Create targeting engine for website Ad System based on phone number",
+                role: "Backend Developer",
+                startDate: "January 2014",
+                endDate: "September 2014",
+                technologies: "C#, MS SQL"
+              },
+              {
+                name: "SearchRev - Pconnect Plugin",
+                description: "Create reporting api that connects to Ad Networks(Adwords, Bing, Facebook, Twitter) for ads management.",
+                role: "Backend Developer",
+                startDate: "September 2014",
+                endDate: "March 2016",
+                technologies: "JAVA, MySQL"
+              },
+              {
+                name: "Tabacco Free Kids - Survey Management",
+                description: "Develop Survey management website for the client",
+                role: "Full Stack Developer",
+                startDate: "March 2016",
+                endDate: "Aug 2016",
+                technologies: "JAVA, MySQL"
+              }
+           ]
+       }
+    ]
+}
+
+
