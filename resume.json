@@ -200,12 +200,20 @@
            "hightlights": [ ],
            "projects": [
               {
-                "name": "Powercore Back-office(ServerCore)",
+                "name": "Powercore Back-office (ServerCore)",
                 "description": "Create restful web services for powercore mobile applications.",
                 "role": "Backend Developer",
                 "startDate": "2017",
                 "endDate": "Persent",
-                "technologies": "PHP, MySQL"
+                "technologies": "PHP 5.6, MySQL, Laravel 4.2 Framework"
+              },
+              {
+                "name": "Coca-Cola Toolbox",
+                "description": "Develop web admistration portal for Coca-Cola products website.",
+                "role": "Web Application Developer",
+                "startDate": "2017",
+                "endDate": "Persent",
+                "technologies": "PHP 7, MySQL, Laravel 5.2 Framework"
               }
            ]
        },
@@ -217,15 +225,31 @@
            "summary": "Code, develop and deploy applications based on client requirements.",
            "hightlights": [ ],
            "projects": [
-              {
-                "name": "WebMetro - ACQ Phone Number Allocator",
-                "description": "Create targeting engine for website Ad System based on phone number",
-                "role": "Backend Developer",
-                "startDate": "January 2014",
-                "endDate": "September 2014",
-                "technologies": "C#, MS SQL"
-              },
-              {
+             {
+               "name": "Advertize.Net - MAX (Campaign Management System)",
+               "description": "Develop backend automation for managing google adwords campaigns",
+               "role": "Backend Developer",
+               "startDate": "December 2016",
+               "endDate": "March 2017",
+               "technologies": "Java, Tomcat Apache, Spring MVC"
+             },
+             {
+               "name": "Firearms and Explosive Office (PNP) - Firearms Licensing System",
+               "description": "Develop and maintain their current system",
+               "role": "Software Developer",
+               "startDate": "August 2016",
+               "endDate": "December 2016",
+               "technologies": "C#, Microsoft SQL Server, Crystal Reports"
+             },
+             {
+               "name": "Tabacco Free Kids - Survey Management",
+               "description": "Develop Survey management website for the client",
+               "role": "Full Stack Developer",
+               "startDate": "March 2016",
+               "endDate": "August 2016",
+               "technologies": "JAVA, MySQL"
+             },
+             {
                 "name": "SearchRev - Pconnect Plugin",
                 "description": "Create reporting api that connects to Ad Networks(Adwords, Bing, Facebook, Twitter) for ads management.",
                 "role": "Backend Developer",
@@ -234,12 +258,12 @@
                 "technologies": "JAVA, MySQL"
               },
               {
-                "name": "Tabacco Free Kids - Survey Management",
-                "description": "Develop Survey management website for the client",
-                "role": "Full Stack Developer",
-                "startDate": "March 2016",
-                "endDate": "Aug 2016",
-                "technologies": "JAVA, MySQL"
+                 "name": "WebMetro - ACQ Phone Number Allocator",
+                 "description": "Create targeting engine for website Ad System based on phone number",
+                 "role": "Backend Developer",
+                 "startDate": "January 2014",
+                 "endDate": "September 2014",
+                 "technologies": "C#, MS SQL"
               }
            ]
        }
