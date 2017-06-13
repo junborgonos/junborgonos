@@ -47,7 +47,14 @@
     "endDate": "Present",
     "summary": "Responsible for Web/App Design and converting PSD to HTML/CSS",
     "highlights": [],
-    "projects":[]
+    "projects":[{
+      "name":"Lucky - Mobile Application",
+      "description":"A phone application focused on giving an entertainment to users and way of getting to know the status of your luck based on chinese calendar.",
+      "role":"Designer / Developer",
+      "startDate":"April 2017",
+      "endDate":"Present",
+      "technologies":"HTML5, CSS3, Jquery, Bootstrap"
+    }]
   },{
     "company": "Build Interactive Media Group, Inc.",
     "position": "Multimedia Designer",
