@@ -304,6 +304,32 @@
                 "technologies": "Delphi 7, MySQL"
               }
            ]
+       },
+       {
+          "company": "Sea Merchants Incorporated",
+           "position": "Information System Specialist",
+           "startDate": "April 2010",
+           "endDate": "August 2011",
+           "summary": "Build, code meta program for company's enterprise application",
+           "hightlights": [ ],
+           "projects": [
+              {
+                "name": "Vessel Recieving System",
+                "description": "Create program that manage the data from warehouse to vessel information system",
+                "role": "Main Developer",
+                "startDate": "April 2010",
+                "endDate": "May 2010",
+                "technologies": "Visual Basic 6, Microsoft Access, MySQL"
+              },
+              {
+                "name": "Centralize Sales and Inventory Database",
+                "description": "Build, code information system that handles the centralization of vessel databases",
+                "role": "Maintenance Developer",
+                "startDate": "May 2010",
+                "endDate": "August 2011",
+                "technologies": "Visual Basic 6, MySQL, Java, Pentaho"
+              }
+           ]
        }
     ]
 }
