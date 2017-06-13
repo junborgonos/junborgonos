@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Erwin Lamoste",
+    "label": "Web Designer / Front End Web Developer",
+    "picture": "https://goo.gl/iuQgEP",
+    "email": "erwin.lamoste@flightdigitalmedia.com",
+    "phone": "+639307137206"
+  },
+  "education": [{
+    "institution": "New Era University",
+    "course": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2011",
+    "endDate": "2015"
+  }],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies":[{
+      "name": "Javascript",
+      "number_of_years": 1
+    }]
+    },{
+      "category": "Web Technologies",
+      "technologies":[{
+        "name": "HTML5",
+        "number_of_years": 3
+      }, {
+        "name": "Jquery",
+        "number_of_years": 1
+      }, {
+        "name": "CSS",
+        "number_of_years": 3
+      }, {
+        "name": "Bootstrap",
+        "number_of_years": 1
+      },{
+        "name": "MySQL",
+        "number_of_years": 1
+      }]
+    }
+  ],
+  "work": [{
+    "company": "Flight Digital Media",
+    "position": "Web Designer / Front End Web Developer",
+    "startDate": "March 2017",
+    "endDate": "Present",
+    "summary": "Responsible for Web/App Design and converting PSD to HTML/CSS",
+    "highlights": [],
+    "projects":[]
+  },{
+    "company": "Build Interactive Media Group, Inc.",
+    "position": "Multimedia Designer",
+    "startDate": "May 2016",
+    "endDate": "November 2016",
+    "summary": "Designed and Developed Web/IOS/Android Application mainly for Real Estate.",
+    "highlights": [],
+    "projects":[{
+      "name":"Laureano di Trevi Towers - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    },{
+      "name":"Six Senses Resort - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    },{
+      "name":"The Currency - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    },{
+      "name":"Vista GL Taft - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    },{
+      "name":"Vista Recto - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    },{
+      "name":"Vista Shaw - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    },{
+      "name":"Vista Suarez Cebu - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    },{
+      "name":"Wil Tower Mall - Interactive Maps",
+      "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
+      "role":"Designer / Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+    }]
+  }
+  ],
+  "certification": [{
+      "title":"IBM Certified Designer – Cognos 10",
+      "institution":"International Business Machines Corporation <br/> August 2014"
+  }]
+}
