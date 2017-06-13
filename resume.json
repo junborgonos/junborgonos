@@ -75,6 +75,10 @@
                 {
                     "name": "AngularJS 1",
                     "number_of_years": 1
+                },
+                {
+                    "name": "ReactJS 1",
+                    "number_of_years": 1
                 }
             ]
         },
@@ -264,6 +268,40 @@
                  "startDate": "January 2014",
                  "endDate": "September 2014",
                  "technologies": "C#, MS SQL"
+              }
+           ]
+       },
+       {
+          "company": "Zenith International Philippines Inc.",
+           "position": "Maintenance Programmer",
+           "startDate": "September 2011",
+           "endDate": "January 2014",
+           "summary": "Build and maintain information system for the sales and inventory operations",
+           "hightlights": [ ],
+           "projects": [
+              {
+                "name": "Sales Management System",
+                "description": "Maintain and enhance the sales information system",
+                "role": "Maintenance Developer",
+                "startDate": "September 2011",
+                "endDate": "January 2014",
+                "technologies": "Delphi 7, MySQL"
+              },
+              {
+                "name": "Inventory Management System",
+                "description": "Maintain and enhance the inventory information system",
+                "role": "Maintenance Developer",
+                "startDate": "September 2011",
+                "endDate": "January 2014",
+                "technologies": "Delphi 7, MySQL"
+              },
+              {
+                "name": "Asset Management and Purchasing System",
+                "description": "Maintain and enhance the asset and Purchasing information system",
+                "role": "Maintenance Developer",
+                "startDate": "December 2011",
+                "endDate": "February 2013",
+                "technologies": "Delphi 7, MySQL"
               }
            ]
        }
