@@ -53,16 +53,8 @@
                     "number_of_years": 5
                 },
                 {
-                    "name": "JQuery",
-                    "number_of_years": 4
-                },
-                {
                     "name": "CSS",
                     "number_of_years": 3
-                },
-                {
-                    "name": "Bootsrap",
-                    "number_of_years": 2
                 }
             ]
         },
@@ -92,15 +84,6 @@
                },
                {
                    "name": "MS SQL",
-                   "number_of_years": 3
-               }
-           ]
-        },
-        {
-           "category": "Content Management System",
-           "technologies": [
-               {
-                   "name": "Wordpress",
                    "number_of_years": 3
                }
            ]
@@ -148,16 +131,16 @@
                    "number_of_years": 3
                },
                {
+                   "name": "PHP Storm",
+                   "number_of_years": 3
+               },
+               {
                    "name": "Sublime Text",
                    "number_of_years": 3
                },
                {
                    "name": "Eclipse",
                    "number_of_years": 3
-               },
-               {
-                   "name": "Zend Studio",
-                   "number_of_years": 2
                }
            ]
         }
@@ -175,16 +158,18 @@
                 "name": "Powercore Back-office (ServerCore)",
                 "description": "Create restful web services for powercore mobile applications.",
                 "role": "Backend Developer",
-                "startDate": "2017",
-                "endDate": "Persent",
+                "startDate": "March 2017",
+                "endDate": "Present",
+                "months": "(3 months)",
                 "technologies": "PHP 5.6, MySQL, Laravel 4.2 Framework"
               },
               {
                 "name": "Coca-Cola Toolbox",
                 "description": "Develop web admistration portal for Coca-Cola products website.",
                 "role": "Web Application Developer",
-                "startDate": "2017",
-                "endDate": "Persent",
+                "startDate": "May 2017",
+                "endDate": "Present",
+                "months": "(2 months)",
                 "technologies": "PHP 7, MySQL, Laravel 5.2 Framework"
               }
            ]
@@ -203,6 +188,7 @@
                "role": "Backend Developer",
                "startDate": "December 2016",
                "endDate": "March 2017",
+               "months": "(3 months)",
                "technologies": "Java, Tomcat Apache, Spring MVC"
              },
              {
@@ -211,6 +197,7 @@
                "role": "Software Developer",
                "startDate": "August 2016",
                "endDate": "December 2016",
+               "months": "(4 months)",
                "technologies": "C#, Microsoft SQL Server, Crystal Reports"
              },
              {
@@ -219,6 +206,7 @@
                "role": "Full Stack Developer",
                "startDate": "March 2016",
                "endDate": "August 2016",
+               "months": "(5 months)",
                "technologies": "JAVA, MySQL"
              },
              {
@@ -227,6 +215,7 @@
                 "role": "Backend Developer",
                 "startDate": "September 2014",
                 "endDate": "March 2016",
+                "months": "(18 months)",
                 "technologies": "JAVA, MySQL"
               },
               {
@@ -235,6 +224,7 @@
                  "role": "Backend Developer",
                  "startDate": "January 2014",
                  "endDate": "September 2014",
+                 "months": "(7 months)",
                  "technologies": "C#, MS SQL"
               }
            ]
@@ -253,6 +243,7 @@
                 "role": "Maintenance Developer",
                 "startDate": "September 2011",
                 "endDate": "January 2014",
+                "months": "(27 months)",
                 "technologies": "Delphi 7, MySQL"
               },
               {
@@ -261,14 +252,7 @@
                 "role": "Maintenance Developer",
                 "startDate": "September 2011",
                 "endDate": "January 2014",
-                "technologies": "Delphi 7, MySQL"
-              },
-              {
-                "name": "Asset Management and Purchasing System",
-                "description": "Maintain and enhance the asset and Purchasing information system",
-                "role": "Maintenance Developer",
-                "startDate": "December 2011",
-                "endDate": "February 2013",
+                "months": "(27 months)",
                 "technologies": "Delphi 7, MySQL"
               }
            ]
@@ -287,6 +271,7 @@
                 "role": "Main Developer",
                 "startDate": "April 2010",
                 "endDate": "May 2010",
+                "months": "(1 months)",
                 "technologies": "Visual Basic 6, Microsoft Access, MySQL"
               },
               {
@@ -295,6 +280,7 @@
                 "role": "Maintenance Developer",
                 "startDate": "May 2010",
                 "endDate": "August 2011",
+                "months": "(15 months)",
                 "technologies": "Visual Basic 6, MySQL, Java, Pentaho"
               }
            ]
