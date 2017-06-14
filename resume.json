@@ -24,10 +24,6 @@
                     "number_of_years": 4
                 },
                 {
-                    "name": "NodeJs",
-                    "number_of_years": 1
-                },
-                {
                     "name": "Javascript",
                     "number_of_years": 5
                 },
@@ -67,18 +63,6 @@
                 {
                     "name": "Bootsrap",
                     "number_of_years": 2
-                },
-                {
-                    "name": "BackboneJS",
-                    "number_of_years": 1
-                },
-                {
-                    "name": "AngularJS 1",
-                    "number_of_years": 1
-                },
-                {
-                    "name": "ReactJS 1",
-                    "number_of_years": 1
                 }
             ]
         },
@@ -87,7 +71,7 @@
             "technologies": [
                {
                    "name": "Laravel",
-                   "number_of_years": 1
+                   "number_of_years": 2
                },
                {
                    "name": "CodeIgniter",
@@ -109,14 +93,6 @@
                {
                    "name": "MS SQL",
                    "number_of_years": 3
-               },
-               {
-                   "name": "Oracle",
-                   "number_of_years": 1
-               },
-               {
-                   "name": "MongoDB",
-                   "number_of_years": 1
                }
            ]
         },
@@ -126,14 +102,6 @@
                {
                    "name": "Wordpress",
                    "number_of_years": 3
-               },
-               {
-                   "name": "Joomla",
-                   "number_of_years": 1
-               },
-               {
-                   "name": "Moodle",
-                   "number_of_years": 1
                }
            ]
         },
