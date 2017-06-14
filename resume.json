@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Rodolfo Borgoños. Jr.",
-        "label": "Web Application Developer",
+        "label": "FULL STACK WEB DEVELOPER",
         "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAmKAAAAJDIyOTA4NWJmLTU0YzEtNDdjOS05NWM3LWVjZjkxMzIwOTRhZg.jpg",
         "email": "rodolfo.borgonos@flightdigitalmedia.com",
         "phone": "+639778508841"
@@ -46,20 +46,20 @@
             ]
         },
         {
-            "category": "Web Technologies",
+            "category": "Front-end Frameworks",
             "technologies": [
                 {
-                    "name": "HTML",
-                    "number_of_years": 5
+                    "name": "Angular JS v1",
+                    "number_of_years": 1
                 },
                 {
-                    "name": "CSS",
-                    "number_of_years": 3
+                    "name": "React JS",
+                    "number_of_years": 0.5
                 }
             ]
         },
         {
-            "category": "Development Frameworks",
+            "category": "Back-end Frameworks",
             "technologies": [
                {
                    "name": "Laravel",
@@ -84,62 +84,6 @@
                },
                {
                    "name": "MS SQL",
-                   "number_of_years": 3
-               }
-           ]
-        },
-        {
-           "category": "Version Control",
-           "technologies": [
-               {
-                   "name": "Git",
-                   "number_of_years": 3
-               },
-               {
-                   "name": "SVN",
-                   "number_of_years": 2
-               }
-           ]
-        },
-        {
-           "category": "Operating System",
-           "technologies": [ 
-               {
-                   "name": "Linux",
-                   "number_of_years": 3
-               },
-               {
-                   "name": "Windows",
-                   "number_of_years": 4
-               }
-           ]
-        },
-        {
-           "category": "Web Services",
-           "technologies": [
-               {
-                   "name": "Amazon Web Services",
-                   "number_of_years": 1
-               }
-           ]
-        },
-        {
-           "category": "Integrated Development Environment",
-           "technologies": [
-               {
-                   "name": "Microsoft visual Studio",
-                   "number_of_years": 3
-               },
-               {
-                   "name": "PHP Storm",
-                   "number_of_years": 3
-               },
-               {
-                   "name": "Sublime Text",
-                   "number_of_years": 3
-               },
-               {
-                   "name": "Eclipse",
                    "number_of_years": 3
                }
            ]
