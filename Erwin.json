@@ -16,10 +16,12 @@
   "skills": [
     {
       "category": "Core Competencies",
-      "technologies":[{
-      "name": "Javascript",
-      "number_of_years": 1
-    },{
+      "technologies":
+      [{
+        "name": "Javascript",
+        "number_of_years": 1
+      },
+      {
         "name": "HTML5",
         "number_of_years": 3
       }, {
@@ -41,7 +43,7 @@
         "name": "Adobe Illustrator",
         "number_of_years": 1
       }
-  ],
+  ]}],
   "work": [{
     "company": "Flight Digital Media",
     "position": "Web Designer / Front End Web Developer",
@@ -143,5 +145,5 @@
   "certification": [{
       "title":"IBM Certified Designer Cognos 10",
       "institution":"International Business Machines Corporation <br/> August 2014"
-  },]
+  }]
 }
