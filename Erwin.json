@@ -53,15 +53,17 @@
       "name":"Lucky - Mobile Application",
       "description":"A phone application focused on giving an entertainment to users and way of getting to know the status of your luck based on chinese calendar.",
       "role":"Designer / Developer",
-      "startDate":"April 2017",
+      "startDate":"2017",
       "endDate":"Present",
-      "technologies":"HTML5, CSS3, Jquery, Bootstrap"
+      "months":"(2 months)",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, Bootstrap"
     },{
       "name":"Zukii - Website",
       "description":"A webpage design for the Zukii App.",
       "role":"Designer",
-      "startDate":"April 2017",
-      "endDate":"April 2017",
+      "startDate":"2017",
+      "endDate":"2017",
+      "months":"(1 month)",
       "technologies":"Adobe Photoshop, Adobe Illustrator"
     }]
   },{
@@ -77,56 +79,64 @@
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Six Senses Resort - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"The Currency - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista GL Taft - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista Recto - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista Shaw - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista Suarez Cebu - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Wil Tower Mall - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
       "startDate":"",
       "endDate":"",
-      "technologies":"HTML5, CSS3, Jquery, BIMG Framework"
+      "months":"",
+      "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     }]
   }
   ],
