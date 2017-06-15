@@ -16,12 +16,11 @@
   "skills": [
     {
       "category": "Core Competencies",
-      "technologies":
-      [{
-        "name": "Javascript",
-        "number_of_years": 1
-      },
-      {
+      "technologies": [
+        {
+          "name": "Javascript",
+          "number_of_years": 1
+      },{
         "name": "HTML5",
         "number_of_years": 3
       }, {
@@ -43,7 +42,8 @@
         "name": "Adobe Illustrator",
         "number_of_years": 1
       }
-  ]}],
+  ] }
+    ],
   "work": [{
     "company": "Flight Digital Media",
     "position": "Web Designer / Front End Web Developer",
@@ -79,65 +79,65 @@
       "name":"Laureano di Trevi Towers - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(1 month)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Six Senses Resort - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(2 months)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"The Currency - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(1 month)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista GL Taft - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(1 month)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista Recto - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(1 month)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista Shaw - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(1 month)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Vista Suarez Cebu - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(1 month)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     },{
       "name":"Wil Tower Mall - Interactive Maps",
       "description":"A tablet application focused on giving a convenient way of getting to know the type of condo unit you wanted to purchase.",
       "role":"Designer / Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"",
+      "startDate":"2016",
+      "endDate":"2016",
+      "months":"(1 month)",
       "technologies":"Adobe Illustrator, Adobe Photoshop, HTML5, CSS3, Jquery, BIMG Framework"
     }]
   }
