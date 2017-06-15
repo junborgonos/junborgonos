@@ -15,30 +15,32 @@
   }],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Core Competencies",
       "technologies":[{
       "name": "Javascript",
       "number_of_years": 1
-    }]
     },{
-      "category": "Web Technologies",
-      "technologies":[{
         "name": "HTML5",
+        "number_of_years": 3
+      }, {
+        "name": "CSS",
         "number_of_years": 3
       }, {
         "name": "Jquery",
         "number_of_years": 1
-      }, {
-        "name": "CSS",
-        "number_of_years": 3
       }, {
         "name": "Bootstrap",
         "number_of_years": 1
       },{
         "name": "MySQL",
         "number_of_years": 1
-      }]
-    }
+      }, {
+        "name": "Adobe Photoshop",
+        "number_of_years": 3
+      }, {
+        "name": "Adobe Illustrator",
+        "number_of_years": 1
+      }
   ],
   "work": [{
     "company": "Flight Digital Media",
@@ -54,7 +56,7 @@
       "startDate":"April 2017",
       "endDate":"Present",
       "technologies":"HTML5, CSS3, Jquery, Bootstrap"
-    }, {
+    },{
       "name":"Zukii - Website",
       "description":"A webpage design for the Zukii App.",
       "role":"Designer",
@@ -129,7 +131,7 @@
   }
   ],
   "certification": [{
-      "title":"IBM Certified Designer – Cognos 10",
+      "title":"IBM Certified Designer Cognos 10",
       "institution":"International Business Machines Corporation <br/> August 2014"
   }]
 }
