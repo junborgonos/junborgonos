@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Erick Evener Tamondong",
+    "label": "Quality Assurance Analyst",
+    "picture": "https://scontent.fcrk1-1.fna.fbcdn.net/v/t1.0-9/13012865_1207241422628655_977527840775816394_n.jpg?oh=e51f93b3299d5e428748a1fc0f378476&oe=59D15707",
+    "email": "erick.tamondong@flightdigitalmedia.com",
+    "phone": "+639771830988"
+  },
+  "education": [{
+    "institution": "Polytechnic University of the Philippines",
+    "course": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2012",
+    "endDate": "2016"
+  }],
+  "skills": [
+    {
+      "category": "Software Testing",
+      "technologies":[{
+        "name": "Agile Testing",
+        "number_of_years": 0.5
+      }, {
+        "name": "Defect/Bug Tracking",
+        "number_of_years": 1.0
+      }, {
+        "name": "Functional Testing",
+        "number_of_years": 1.0
+      }, {
+        "name": "Manual Testing",
+        "number_of_years": 1.0
+      }, {
+        "name": "Mobile Testing",
+        "number_of_years": 0.5
+      }, {
+        "name": "Regression Testing",
+        "number_of_years": 1.0
+      }, {
+        "name": "Test Case Generation",
+        "number_of_years": 1.0
+      }, {
+        "name": "User Acceptance Testing",
+        "number_of_years": 1.0
+      }]
+    },{
+      "category": "Application Support",
+      "technologies":[{
+        "name": "UAT Support",
+        "number_of_years": 1
+      },{
+        "name": "Production Support",
+        "number_of_years": 1
+      }]
+    }
+  ],
+  "work": [{
+    "company": "Flight Digital Media",
+    "position": "Quality Assurance Analyst",
+    "startDate": "April 2017",
+    "endDate": "Present",
+    "summary": "Perform testing on different projects.",
+    "highlights": [],
+    "projects":[
+      {
+        "name":"Coca-Cola Happy Shopmate",
+        "description":"The Happy Shompate App has the most exciting deals, perks and freebies online.This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes.",
+        "role":"Software Tester",
+        "startDate":"2017",
+        "endDate":"Present",
+        "months":"(2 months)"
+      }
+    ]
+  },{
+    "company": "Fifth Leg Data Production",
+    "position": "Application Support Engineer",
+    "startDate": "June 2016",
+    "endDate": "Jun 2017",
+    "summary": "Support various projects that focuses on data collection of different racing data from different countries that will be used on betting",
+    "highlights": [],
+    "projects":[
+    {
+      "name":"Australia Data Collection",
+      "description":"This project focuses on collecting racing data from different data sources in Australia that will be used in betting.",
+      "role":"Application Support Engineer",
+      "startDate":"2016",
+      "endDate":"2017",
+      "months":"(10 months)"
+    },
+    {
+      "name":"US Data Collection",
+      "description":"This project focuses on collecting racing data from different data sources in US that will be used in betting.",
+      "role":"Application Support Engineer",
+      "startDate":"2016",
+      "endDate":"2017",
+      "months":"(10 months)"
+    },
+    {
+      "name":"France Data Collection",
+      "description":"This project focuses on collecting racing data from different data sources in France that will be used in betting.",
+      "role":"Application Support Engineer",
+      "startDate":"2016",
+      "endDate":"2017",
+      "months":"(10 months)"
+    },
+    {
+      "name":"United Kingdom Data Collection",
+      "description":"This project focuses on collecting racing data from different data sources in United Kingdom that will be used in betting.",
+      "role":"Application Support Engineer",
+      "startDate":"2016",
+      "endDate":"2017",
+      "months":"(10 months)"
+    },
+    {
+      "name":"HongKong Data Collection",
+      "description":"This project focuses on collecting racing data from different data sources in HongKong that will be used in betting.",
+      "role":"Application Support Engineer",
+      "startDate":"2016",
+      "endDate":"2017",
+      "months":"(10 months)"
+    },
+    {
+      "name":"Singapore Data Collection",
+      "description":"This project focuses on collecting racing data from different data sources in Singapore that will be used in betting.",
+      "role":"Application Support Engineer",
+      "startDate":"2016",
+      "endDate":"2017",
+      "months":"(10 months)"
+    }
+    ]
+  }
+  ]
+}
